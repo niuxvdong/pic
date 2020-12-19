@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------
+获取cookies：
+var CV = '单引号里面放第六步拿到的cookie';
+var CookieValue = CV.match(/pt_pin=.+?;/) + CV.match(/pt_key=.+?;/);
+copy(CookieValue);
+
+------------------------------------------------------------------------------------------
+
+牛旭东：pt_pin=nxd158903258;pt_key=AAJfzDm_ADB4NWfxGJrwUTFkUH11O5PCQS1AkNLOJTHJa40n3TZwiFYrI6WPcWX4MJndIEBmqt4;
+段志伟：pt_pin=jd_597510992972c;pt_key=AAJfzhnXADAUR8PWvae80iDhsr_Ge77k_hROLDbnjiymTlTNb0J7pTmcBxgB8S3aum4AxjlKWFI;
+
+----------------------12月14号：
+
+呼晓辉：pt_pin=jd_676c25c8dbc3f;pt_key=AAJf106fADCQfz7ij28fcb7b8wAEAxY96avCgIVAV7HuS5xwUyR-6yDCwHvhnlf1oSiBrkv7Org;
+（不用）张强文：pt_pin=jd_yCROLahHsHVU;pt_key=AAJf10_EADCV6X1u5qelbMa8Po5ONjICXI7nPWDzSYyLmyMVkycv70Fv9eGivBugfGSIS9ZF4Ps;
+石宇飞：pt_pin=jd_49d45375acd20;pt_key=AAJf11DsADDlPORnvyaivk4xT2Oyvh9kTUEaN3RFiEFItCKmrlJkpuEaiQ8Ek0lWAeTUuayUOW8;
+张勇：pt_pin=jd_ijwmNgYmEEEb;pt_key=AAJf11GSADB1YtYPuYNddtmFxX19BaYh39y0WOvpmC9KTKgLZaQ2ItiFibpflnN8__185eTgDm8;
+
+赵佳迪：pt_pin=jd_4a8bf9d1168ea;pt_key=AAJf11MNADA3fbvYSsLpq8bDoXH79ZUJX4NqO2Erxuacp6Y063fA5SA18D7gdmzRog-erLD4qJ4;
+（有问题账号）胡江瑞：pt_pin=jd_438d6ba9f1133;pt_key=AAJf11WnADAT9zDGvhQGy1LqdiWKTfxHBpNyexYh0BvBha6DM5HPsH4MjrzJrKy_sAP37o6f4Jo;
+
+---------------------12月19号：
+
+张强文：pt_pin=jd_XywMlmgilomf;pt_key=AAJf3gtpADDm_ddTBjY6H7e8VqO4Aj-LJCrC2QxKJz0-CgaXMdF7ntsl-xbwVuPD5eoLG_UmGLg;
+
+合集：pt_pin=nxd158903258;pt_key=AAJfzDm_ADB4NWfxGJrwUTFkUH11O5PCQS1AkNLOJTHJa40n3TZwiFYrI6WPcWX4MJndIEBmqt4;&pt_pin=jd_597510992972c;pt_key=AAJfzhnXADAUR8PWvae80iDhsr_Ge77k_hROLDbnjiymTlTNb0J7pTmcBxgB8S3aum4AxjlKWFI;&pt_pin=jd_4a8bf9d1168ea;pt_key=AAJf11MNADA3fbvYSsLpq8bDoXH79ZUJX4NqO2Erxuacp6Y063fA5SA18D7gdmzRog-erLD4qJ4;&pt_pin=jd_676c25c8dbc3f;pt_key=AAJf106fADCQfz7ij28fcb7b8wAEAxY96avCgIVAV7HuS5xwUyR-6yDCwHvhnlf1oSiBrkv7Org;&pt_pin=jd_49d45375acd20;pt_key=AAJf11DsADDlPORnvyaivk4xT2Oyvh9kTUEaN3RFiEFItCKmrlJkpuEaiQ8Ek0lWAeTUuayUOW8;&pt_pin=jd_XywMlmgilomf;pt_key=AAJf3gtpADDm_ddTBjY6H7e8VqO4Aj-LJCrC2QxKJz0-CgaXMdF7ntsl-xbwVuPD5eoLG_UmGLg;&pt_pin=jd_ijwmNgYmEEEb;pt_key=AAJf11GSADB1YtYPuYNddtmFxX19BaYh39y0WOvpmC9KTKgLZaQ2ItiFibpflnN8__185eTgDm8
+
+
+
+
+
+
